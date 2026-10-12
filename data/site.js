@@ -10,7 +10,7 @@ export const site = {
   url: "https://namadomainkamu.com",
   email: "syahwawahyus@gmail.com",
   headline:
-    "Saya membangun aplikasi web yang membuat pekerjaan operasional lebih rapi dan mudah dilacak.",
+    "Syahwa Wahyu | Portofolio ",
   intro:
     "Saya Syahwa Wahyu, mahasiswa S1 Informatika di Institut Teknologi Sains dan Kesehatan RS dr Soepraoen Malang yang mengerjakan sistem pelaporan, platform, dan aplikasi kasir dengan Laravel dan PostgreSQL.",
   links: {
