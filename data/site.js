@@ -32,7 +32,6 @@ export const about = {
   paragraphs: [
     "Saya mengerjakan sisi backend dan frontend dalam satu alur: dari rancangan database di PostgreSQL, endpoint API, sampai tampilan yang dirender dengan Blade, Tailwind CSS, dan Alpine.js.",
     "Saya suka pekerjaan yang hasilnya langsung dipakai orang, misalnya dasbor untuk memantau mitra, ekspor laporan, atau struk kasir. Saya terbiasa menulis test dan koleksi Postman supaya fitur mudah diverifikasi.",
-    "[Tambahkan 1-2 kalimat tentang motivasi, nilai kerja, atau hal yang sedang kamu pelajari.]",
   ],
   facts: [
     { label: "Fokus", value: "Next.js dan PostgreSQL" },
@@ -67,7 +66,7 @@ export const projects = [
         "Menyusun koleksi Postman untuk endpoint ekspor dan memperbaiki perbedaan SQLite dan PostgreSQL di feature test.",
       ],
       result:
-        "Autentikasi berbasis UUID berjalan stabil, dasbor mitra dapat difilter dan diurutkan, dan endpoint ekspor punya test yang bisa dijalankan ulang. [Tambahkan angka: jumlah mitra, waktu yang dihemat, dsb.]",
+        "Autentikasi berbasis UUID berjalan stabil, dasbor mitra dapat difilter dan diurutkan, dan endpoint ekspor punya test yang bisa dijalankan ulang.",
     },
   },
   {
@@ -90,7 +89,7 @@ export const projects = [
         "Memperbaiki data terstruktur JSON-LD untuk SEO dan merapikan logika statistik bersama di controller.",
       ],
       result:
-        "Mitra bisa mengunduh laporan ESG dan karbon dalam dua format, dan calon mitra bisa menghubungi tim lewat satu klik. [Tambahkan angka: jumlah laporan, peningkatan kontak masuk, dsb.]",
+        "Mitra bisa mengunduh laporan ESG dan karbon dalam dua format, dan calon mitra bisa menghubungi tim lewat satu klik.",
     },
   },
   {
